@@ -13,7 +13,7 @@ public class NomeIdadeParticipantes {
         } else if (idade >= 20) {
             System.out.println(nome + "Categoria Adulto" + idade);
         } else {
-            System.out.println(nome + "Categoria indefinida + idade");
+            System.out.println(nome + "Categoria indefinida" + idade);
         }
     }
 }
