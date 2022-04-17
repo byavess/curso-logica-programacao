@@ -14,6 +14,7 @@ public class NomeIdadeParticipantes {
             System.out.println(nome + "Categoria Adulto" + idade);
         } else {
             System.out.println(nome + "Categoria indefinida" + idade);
+
         }
     }
 }
